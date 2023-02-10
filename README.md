@@ -15,6 +15,7 @@ This is a movie information web application built with React, TMDB API and SASS 
 Before you begin, make sure you have the following software installed on your computer:
 
 Node.js
+
 npm or yarn (recommended)
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -59,6 +60,9 @@ Email: anniedavid407@gmail.com
 LinkedIn: https://www.linkedin.com/in/annie-david-b36431215/
 
 
-## Thank you for visiting my portfolio!
+## Thank you for visiting!
+
+![web4](https://user-images.githubusercontent.com/91792578/217996830-ebf9d7fd-c155-431e-a4dd-727d0bb5c9b4.png)
+
 
 
