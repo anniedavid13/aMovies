@@ -5,7 +5,6 @@ This is a movie information web application built with React, TMDB API and SASS 
 
 ## Features
 - Responsive design for optimal viewing on various devices
-- Dynamic rendering of my portfolio items using React components
 - Clean and modern user interface
 
 
